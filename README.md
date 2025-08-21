@@ -35,5 +35,5 @@ I am a **dynamic and self-driven emerging Data Scientist** with a strong foundat
 ---
 
 ## 📫 Contact
-- 🔗 LinkedIn: [linkedin.com/in/murari-alapati]((https://www.linkedin.com/in/alapati-murari-30ab9928a/))  
+- 🔗 LinkedIn: [linkedin.com/in/murari-alapati](https://www.linkedin.com/in/alapati-murari-30ab9928a/)
 
